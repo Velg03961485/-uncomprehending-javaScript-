@@ -8,5 +8,5 @@ Javascript tricks you don't know about
 #### 原型  闭包  原型链  事件循环 回调函数  递归
 
 
-### 可怕的console.log
+### 1.可怕的console.log
 
